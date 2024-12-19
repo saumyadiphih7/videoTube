@@ -224,3 +224,339 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-18T10:53:06.290Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-18T10:53:24.781Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-18T10:53:25.617Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:38:11.950Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:38:12.731Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:43:42.045Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:43:43.278Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:26.426Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:27.022Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:36.064Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:36.712Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:38.907Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:39.462Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:44.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:45.198Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:45.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:48.261Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:48.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:51.744Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:52.352Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:44:56.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:44:57.083Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:45:02.073Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:45:02.648Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:45:04.138Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:45:04.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:46:40.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:46:41.662Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:46:44.382Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:46:45.037Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:52:29.328Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:52:30.117Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:56:22.605Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:56:23.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:56:38.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:56:39.174Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:56:43.138Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:56:43.903Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:57:52.035Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:57:52.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:58:04.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:58:05.179Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:58:05.749Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:58:09.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:58:10.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:58:22.127Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:58:22.719Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T04:58:28.641Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T04:58:29.428Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:05:19.818Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:05:20.639Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:05:23.695Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:05:24.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:05:30.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:05:31.135Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:05:51.359Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:05:51.969Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:00.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:01.171Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:04.473Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:05.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:06.242Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:09.425Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:10.062Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:14.449Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:15.165Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:20.303Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:21.019Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:22.508Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:23.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:49.153Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:49.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:06:53.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:06:54.451Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:00.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:01.059Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:05.956Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:06.941Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:07.553Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:09.710Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:10.308Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:13.616Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:14.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:17.358Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:17.964Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:19.660Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:20.310Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:21.077Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:21.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:07:55.161Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:07:55.789Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:08:25.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:08:25.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:08:28.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:08:28.659Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:08:30.915Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:08:31.548Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:28.132Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:29.046Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:30.771Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:32.088Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:32.705Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:38.838Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:39.460Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:43.108Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:43.722Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:45.982Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:46.608Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:48.592Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:49.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:11:49.936Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:11:50.593Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCheck\",\"status\":\"200\",\"responseTime\":\"4.926\"}","timestamp":"2024-12-19T05:13:01.879Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCeck\",\"status\":\"404\",\"responseTime\":\"2.290\"}","timestamp":"2024-12-19T05:14:47.482Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:16:13.029Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:16:13.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:16:15.384Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:16:15.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:16:22.291Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:16:23.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:16:23.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:16:27.152Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:16:27.785Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCeck\",\"status\":\"404\",\"responseTime\":\"4.407\"}","timestamp":"2024-12-19T05:16:32.154Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCheck\",\"status\":\"200\",\"responseTime\":\"2.744\"}","timestamp":"2024-12-19T05:17:18.288Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:24:18.710Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:24:19.431Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:24:20.314Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:24:20.910Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:24:29.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:24:30.083Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:24:31.570Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:24:32.182Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:24:37.233Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:24:38.643Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:24:39.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCheck\",\"status\":\"200\",\"responseTime\":\"4.168\"}","timestamp":"2024-12-19T05:24:51.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCeck\",\"status\":\"404\",\"responseTime\":\"0.822\"}","timestamp":"2024-12-19T05:25:06.269Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthCheck\",\"status\":\"200\",\"responseTime\":\"0.672\"}","timestamp":"2024-12-19T05:25:28.797Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:25:51.577Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:25:52.467Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:25:55.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:25:56.048Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:26:36.714Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:26:37.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:25.904Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:26.624Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:27.700Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:28.335Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:31.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:32.055Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:33.472Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:34.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:37.204Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:37.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:39.761Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:40.372Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:41.255Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:41.815Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:43.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:44.049Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:47.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:47.863Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:49.509Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:50.069Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:51.765Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:52.317Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:55.131Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:55.930Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:29:57.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:29:58.521Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:34:06.213Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:34:06.902Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:34:09.213Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:34:09.948Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:34:11.765Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:34:12.357Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:34:55.786Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:34:56.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:34:57.554Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:35:00.931Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:35:01.828Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:35:02.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:35:03.445Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:35:48.412Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:35:49.064Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:01.488Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:02.287Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:06.815Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:07.705Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:09.370Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:09.995Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:13.485Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:14.429Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:26.297Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:27.108Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:29.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:30.249Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:46.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:47.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:50.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:51.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:36:54.067Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:36:54.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:00.033Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:37:00.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:03.853Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:04.799Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:37:05.481Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:27.527Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:37:28.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:29.987Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:37:30.645Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:37.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:38.520Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:37:39.136Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:37:54.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:37:54.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:01.647Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:02.265Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:04.212Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:04.753Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:07.081Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:07.718Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:10.199Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:10.798Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:13.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:13.912Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:21.242Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:22.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:24.469Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:25.222Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:30.128Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:30.764Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:48.667Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:49.288Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:50.953Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:38:51.998Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:38:52.607Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:01.789Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:02.523Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:04.422Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:05.025Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:07.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:08.436Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:18.857Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:19.591Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:22.172Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:22.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:24.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:24.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:31.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:32.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:39:58.554Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:39:59.209Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:40:13.250Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:40:14.011Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:40:15.318Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:40:15.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:40:22.479Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:40:23.280Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:40:26.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:40:27.491Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:40:47.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:40:48.402Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:41:50.569Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:41:51.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:41:52.605Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:41:53.189Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:41:55.503Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:41:56.079Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:42:00.920Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:42:01.518Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:42:03.598Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:42:04.185Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:42:28.046Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:42:28.718Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:42:30.313Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:42:30.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:03.588Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:04.969Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:05.576Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:10.664Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:11.290Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:15.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:15.864Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:19.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:19.902Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:21.425Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:22.051Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:27.096Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:27.731Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:29.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:29.817Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:32.923Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:33.715Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:44.134Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:45.183Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:45.801Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:50.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:51.296Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:57.528Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:58.111Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:43:59.183Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:43:59.752Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:01.830Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:02.978Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:03.618Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:05.323Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:05.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:11.920Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:12.763Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:14.640Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:15.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:18.161Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:18.813Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:23.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:23.721Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:44:28.974Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:44:29.613Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:47:02.371Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:47:03.539Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:47:04.122Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T05:47:07.259Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T05:47:07.896Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:20:17.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:20:17.962Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:32:16.342Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:32:17.796Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:32:53.920Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:32:54.705Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:32:59.243Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:32:59.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:33:01.568Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:33:02.223Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:33:03.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:33:03.929Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 8000","timestamp":"2024-12-19T09:33:05.002Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2024-12-19T09:33:05.681Z"}
